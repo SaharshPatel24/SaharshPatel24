@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Prisma**
 
-- 👨‍💻 All of my projects are available at [https://www.saharshpatel.ml/](https://www.saharshpatel.ml/)
+- 👨‍💻 All of my projects are available at [https://www.saharshpatel.ml/]([https://www.saharshpatel.ml/](https://saharshpatel.vercel.app/))
 
 - 💬 Ask me about **React Frameworks And Problem Solving**
 
