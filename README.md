@@ -15,9 +15,9 @@
 
 ```typescript
 const saharsh = {
-    role: "Full-Stack Developer",
+    role: "Full-Stack Developer & AI Enthusiast",
     code: ["JavaScript", "TypeScript", "Python", "Dart"],
-    askMeAbout: ["web dev", "mobile apps", "database design", "system architecture"],
+    askMeAbout: ["web dev", "mobile apps", "AI/ML", "transformers", "system architecture"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -28,22 +28,24 @@ const saharsh = {
             python: ["Django", "Flask"],
         },
         mobile: ["React Native", "Flutter"],
+        aiML: ["TensorFlow", "PyTorch", "Transformers", "Hugging Face"],
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-        devOps: ["Docker", "AWS", "Heroku"],
+        cloud: ["AWS", "Heroku", "Vercel"],
         tools: ["Git", "Webpack", "Jest", "Figma"]
     },
-    currentFocus: "Building scalable applications with modern technologies",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+    currentFocus: "Exploring cutting-edge AI technologies and transformer architectures",
+    funFact: "I can explain transformers better than I can explain why my code works! 🤖"
 };
 ```
 
 ## 🚀 What I'm Up To
 
-- 🔭 **Currently Building:** Interactive web applications with React & Next.js
-- 🌱 **Learning:** Advanced Docker containerization and Prisma ORM
-- 👯 **Looking to Collaborate:** On open-source projects and innovative startups
-- 🤔 **Exploring:** Microservices architecture and cloud-native development
-- 💬 **Ask Me About:** React, Node.js, database optimization, or anything tech!
+- 🔭 **Currently Building:** AI-powered web applications with React & Next.js
+- 🧠 **Learning:** Advanced transformer architectures and cutting-edge AI technologies
+- 🤖 **Experimenting With:** Large Language Models, NLP, and Computer Vision
+- 👯 **Looking to Collaborate:** On AI/ML projects and innovative startups
+- 🤔 **Exploring:** Neural networks, attention mechanisms, and model optimization
+- 💬 **Ask Me About:** React, Node.js, AI/ML, transformers, or anything tech!
 - ⚡ **Fun Fact:** I can solve a Rubik's cube in under 2 minutes
 
 ## 🛠️ Tech Arsenal
@@ -78,6 +80,14 @@ const saharsh = {
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
         <br>AWS
     </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
+        <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" />
+        <br>PyTorch
+    </td>
 </tr>
 <tr>
     <td align="center" width="96"> 
@@ -107,6 +117,14 @@ const saharsh = {
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="40" height="40" alt="Firebase" />
         <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face" />
+        <br>Hugging Face
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" />
+        <br>Scikit-learn
     </td>
 </tr>
 </table>
